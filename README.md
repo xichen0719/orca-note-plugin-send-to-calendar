@@ -31,5 +31,5 @@ pnpm build
 本地测试时，可以把构建后的轻量插件目录放到：
 
 ```text
-C:\Users\huang\Documents\orca\plugins\send-to-calendar
+\orca\plugins\send-to-calendar
 ```
